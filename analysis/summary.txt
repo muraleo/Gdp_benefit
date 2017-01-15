@@ -1,0 +1,4 @@
+The final results show that GDP does not give too many benefits to the education and evironment protection,
+because most of the benefit value between GDP and education are lower than 1, it means that the growth of 
+Education is always lower than growth of GDP. And the result of GDP and Environment is the same. The details
+will be discussed in final report of this project.
